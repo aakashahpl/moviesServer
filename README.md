@@ -11,5 +11,5 @@ Api for getting and posting data for movies,producers and directors.
 
 ## Installation
 - The server is connected to compass version of mongoDB.
-- Install mongodb on your system and connect it to the server on port default mongod port 27107 using mongoose.
-- Install necessary modules - 1)mongoose 2)express 3)body-parser 4)nodemon(if necessary)
+- Install mongodb on your system and connect it to the server on default mongod port 27107 using mongoose.
+- Install necessary modules - 1)mongoose 2)express 3)body-parser 4)nodemon(not necessary)
